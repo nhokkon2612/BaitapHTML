@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="216e8359-b508-4bc2-b434-105b1427015f" name="Default Changelist" comment="" />
+    <list default="true" id="216e8359-b508-4bc2-b434-105b1427015f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TaoFormlaySURVEY" />
   </component>
   <component name="ProjectId" id="1lvBSKKfhrif07YRz9Ih5dA2vZ1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,7 +44,7 @@
       <updated>1608467682424</updated>
       <workItem from="1608467683597" duration="673000" />
       <workItem from="1608476791479" duration="7474000" />
-      <workItem from="1608513035727" duration="1546000" />
+      <workItem from="1608513035727" duration="14987000" />
     </task>
     <servers />
   </component>

@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/CV" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Form thực hành" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FormThucHanh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Formtimkiemvoigoogle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaoFormlaySURVEY" vcs="Git" />
   </component>
 </project>
