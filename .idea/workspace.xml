@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216e8359-b508-4bc2-b434-105b1427015f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThoikhoabieuT09/T0908I1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TaoFormlaySURVEY/Lay-Survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoFormlaySURVEY/Lay-Survey.html" afterDir="false" />
     </list>
@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Taoformdangkynguoidung" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lvBSKKfhrif07YRz9Ih5dA2vZ1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +45,9 @@
       <updated>1608467682424</updated>
       <workItem from="1608467683597" duration="673000" />
       <workItem from="1608476791479" duration="7474000" />
-      <workItem from="1608513035727" duration="20287000" />
+      <workItem from="1608513035727" duration="21884000" />
+      <workItem from="1608590088173" duration="2012000" />
+      <workItem from="1608599216410" duration="2812000" />
     </task>
     <servers />
   </component>
